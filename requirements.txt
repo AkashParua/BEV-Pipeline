@@ -1,0 +1,3 @@
+quaternion
+numpy
+python-opencv
